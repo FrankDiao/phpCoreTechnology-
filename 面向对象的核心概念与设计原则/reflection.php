@@ -4,7 +4,7 @@
  * 反射API示例
  * 演示获取一个类的所有成员
  */
-class Person{
+class Person {
     const birthday = "1998/11/24";
     public $name = "frank";
     protected $age = "21";

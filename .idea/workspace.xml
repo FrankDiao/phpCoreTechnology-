@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b6ea404d-5292-4cf2-8fc6-12eb8efbcf8d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/Administrator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapterOne/reflection.php" beforeDir="false" afterPath="$PROJECT_DIR$/chapterOne/reflection.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/正则表达式基础与应用/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/正则表达式基础与应用/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,33 +15,35 @@
       <usages-collector id="statistics.lifecycle.project">
         <counts>
           <entry key="project.closed" value="2" />
+          <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.59" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+          <entry key="md" value="1" />
           <entry key="php" value="6" />
           <entry key="第一章  面向对象思想的核心概念" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Markdown" value="1" />
+          <entry key="Markdown" value="2" />
           <entry key="PHP" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="md" value="7" />
+          <entry key="md" value="34" />
           <entry key="php" value="2317" />
           <entry key="txt" value="20" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Markdown" value="7" />
+          <entry key="Markdown" value="34" />
           <entry key="PHP" value="2317" />
           <entry key="PLAIN_TEXT" value="20" />
         </counts>
@@ -54,10 +53,13 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/chapterOne/exception.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="62">
-              <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+        <entry file="file://$PROJECT_DIR$/正则表达式基础与应用/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="206">
+                <caret line="206" lean-forward="true" selection-start-line="206" selection-end-line="206" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -80,6 +82,7 @@
         <option value="$PROJECT_DIR$/chapterOne/exception.php" />
         <option value="$PROJECT_DIR$/chapterOne/第一章  面向对象思想的核心概念" />
         <option value="$PROJECT_DIR$/chapterOne/README.md" />
+        <option value="$PROJECT_DIR$/正则表达式基础与应用/README.md" />
       </list>
     </option>
   </component>
@@ -111,6 +114,11 @@
             <path>
               <item name="phpCoreTechnology" type="b2602c69:ProjectViewProjectNode" />
               <item name="phpCoreTechnology" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="phpCoreTechnology" type="b2602c69:ProjectViewProjectNode" />
+              <item name="phpCoreTechnology" type="462c0819:PsiDirectoryNode" />
+              <item name="正则表达式基础与应用" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -148,6 +156,7 @@
       <updated>1546150292549</updated>
       <workItem from="1546150294188" duration="12222000" />
       <workItem from="1547526892642" duration="149000" />
+      <workItem from="1552919352361" duration="248000" />
     </task>
     <task id="LOCAL-00001" summary="反射API的应简单应用">
       <created>1546162718500</created>
@@ -181,12 +190,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12371000" />
+    <option name="totallyTimeSpent" value="12619000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25340393" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13993949" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -250,6 +260,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="62">
           <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/正则表达式基础与应用/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="206">
+            <caret line="206" lean-forward="true" selection-start-line="206" selection-end-line="206" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
